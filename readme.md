@@ -25,7 +25,7 @@ npm install
 ```
 CLIENT_TOKEN='Your_Bot_Token_Here'
 ```
-4. Ceate a .dev.env file in the root directory and add your Discord bot token as CLIENT_TOKEN.
+5. Ceate a .dev.env file in the root directory and add your Discord bot token as CLIENT_TOKEN.
 ```
 CLIENT_TOKEN='Your_Bot_Token_Here'
 ```
