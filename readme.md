@@ -8,7 +8,7 @@ Please note: This project and README are currently a work in progress. Informati
 - Node.js installed on your system.
 - A Discord account and a server where you can add bots.
 
-### Installation
+### Setup
 1. Clone this repository to your local machine.
 ```
 git clone https://github.com/elizabeth-kang/song-bot.git
