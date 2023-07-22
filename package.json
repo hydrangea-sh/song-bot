@@ -13,7 +13,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@flydotio/dockerfile": "^0.3.3",
     "@types/node": "^20.3.2",
     "nodemon": "^2.0.22",
     "ts-node": "^10.9.1",
