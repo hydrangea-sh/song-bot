@@ -21,13 +21,13 @@ cd song-bot
 ```
 npm install
 ```
-4. Ceate a .env file in the root directory and add your Discord bot token as CLIENT_TOKEN.
+4. Ceate a .env file in the root directory and add your Discord bot token as DISCORD_CLIENT_TOKEN.
 ```
-CLIENT_TOKEN='Your_Bot_Token_Here'
+DISCORD_CLIENT_TOKEN="Your_Bot_Token_Here"
 ```
 4. Ceate a .dev.env file in the root directory and add your Discord bot token as CLIENT_TOKEN.
 ```
-CLIENT_TOKEN='Your_Bot_Token_Here'
+DISCORD_CLIENT_TOKEN="Your_Bot_Token_Here"
 ```
 
 ### Usage

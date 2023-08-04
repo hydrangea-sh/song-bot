@@ -1,6 +1,6 @@
-import type { ClientEvents, Awaitable, Client } from 'discord.js';
+import type { ClientEvents, Awaitable, Client } from "discord.js";
 // Export events enum through here to reduce the amount of imports.
-export { Events } from 'discord.js';
+export { Events } from "discord.js";
 
 export type LogMethod = (...args: unknown[]) => void;
 export type EventKeys = keyof ClientEvents;
@@ -39,7 +39,7 @@ export function registerEvents(client: Client, events: Event[]): void {
         callback({ client, log }, ...args);
       } catch (err) {
         // Log the error.
-        log('[Uncaught Error]', err);
+        log("[Uncaught Error]", err);
       }
     });
   }

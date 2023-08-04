@@ -1,3 +1,3 @@
-import('./client.js');
+import("./client.js");
 
-console.log('hello world!');
+console.log("hello world!");
